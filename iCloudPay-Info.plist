@@ -17,13 +17,13 @@
                     <key>kind</key>  
                     <string>display-image</string>  
                     <key>url</key>  
-                    <string>http://172.16.49.48:28700/ccaweb/jsp/mca/appRecomLstMng/images/20180425091542.jpg</string>  
+                    <string>http://222.245.77.101:28700/ccaweb/jsp/mca/appRecomLstMng/images/20180425091542.jpg</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
                     <string>full-size-image</string>  
                     <key>url</key>  
-                    <string>http://172.16.49.48:28700/ccaweb/jsp/mca/appRecomLstMng/images/20180425091542.jpg</string>  
+                    <string>http:/222.245.77.101:28700/ccaweb/jsp/mca/appRecomLstMng/images/20180425091542.jpg</string>  
                 </dict>  
             </array>  
             <key>metadata</key>  
